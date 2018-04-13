@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tutorial 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+Main.cpp(308): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Main.cpp(309): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Main.cpp(348): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Main.cpp(361): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Main.cpp(390): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Main.cpp(421): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Main.cpp(435): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  CMP3110M Parallel Computing Assignment 1.vcxproj -> E:\CMP3110M - Assignment\CMP3110M Parallel Computing Assignment 1\x64\Debug\CMP3110M Parallel Computing Assignment 1.exe
+  CMP3110M Parallel Computing Assignment 1.vcxproj -> E:\CMP3110M - Assignment\CMP3110M Parallel Computing Assignment 1\x64\Debug\CMP3110M Parallel Computing Assignment 1.pdb (Full PDB)
+  kernel.cl
+          1 file(s) copied.
